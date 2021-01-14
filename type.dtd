@@ -1,0 +1,14 @@
+<!ELEMENT rozklad_zajec (tydzien+)>
+
+<!ELEMENT tydzien (dzien+)>
+<!ATTLIST tydzien numer CDATA #REQUIRED>
+
+<!ELEMENT dzien (para*)>
+<!ATTLIST dzien 
+	nazwa (poniedzialek | wtorek | sroda | czwartek | piatek) #REQUIRED>
+
+<!ELEMENT para (nazwa, sala, prowadzacy)>
+<!ELEMENT nazwa (#PCDATA)>
+<!ELEMENT sala (#PCDATA)>
+<!ELEMENT prowadzacy (#PCDATA)>
+<!ATTLIST para czas CDATA #REQUIRED>

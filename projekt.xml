@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rozklad_zajec SYSTEM "type.dtd">
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<rozklad_zajec>
+	<tydzien numer="pierwszy">
+		<dzien nazwa="poniedzialek">
+			<para czas="08.00-09.30">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+		<dzien nazwa="wtorek">
+			<para czas="09.45-11.15">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="11.30-13.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="13.30-15.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+		<dzien nazwa="sroda">
+			<para czas="11.30-13.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="13.30-15.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="15.15-16.45">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+		<dzien nazwa="czwartek"/>
+		<dzien nazwa="piatek">
+			<para czas="09.45-11.15">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="11.30-13.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+	</tydzien>
+	<tydzien numer="drugi">
+		<dzien nazwa="poniedzialek">
+			<para czas="11.30-13.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="13.30-15.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="15.15-16.45">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="17.00-18.30">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>			
+		</dzien>
+		<dzien nazwa="wtorek">
+			<para czas="09.45-11.15">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="11.30-13.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="13.30-15.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+		<dzien nazwa="sroda">
+			<para czas="15.15-16.45">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="17.00-18.30">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+		<dzien nazwa="czwartek">
+			<para czas="09.45-11.15">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="11.30-13.00">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+		<dzien nazwa="piatek">
+			<para czas="08.00-08.45">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+			<para czas="09.45-11.15">
+				<nazwa></nazwa>
+				<sala></sala>
+				<prowadzacy></prowadzacy>
+			</para>
+		</dzien>
+	</tydzien>
+</rozklad_zajec>
